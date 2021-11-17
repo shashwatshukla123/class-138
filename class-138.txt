@@ -1,0 +1,15 @@
+Types of Recommendation Systems:--
+
+Demographic Filtering: This provides the same recommendation to all the audience based on popularity, rating or genre of the item.
+We can see this type of recommendations in sections such as 'Trending Now', 'Popular on Netflix', etc. 
+This is one of the most simple form of filtering. 
+This assumes that items which are more popular or critically acclaimed will have higher chances of being liked by the general audience.
+
+Content Based Filtering: This suggests similar items based on a particular item. 
+This uses the item's similarity with the previously liked or saved items of the user based on item's metadata or current search keywords used by user to find some item. 
+This assumes that a user has higher chances to like similar items based on previous history of the user. 
+Also, this helps in giving relevant recommendations to the user based on searched keywords.
+
+Collaborating Filtering: This system matches persons with similar interests and provides recommendations based on this matching. 
+Collaborative filters do not require item metadata like in content-based filtering. 
+This kind of recommendations implementation can be seen in Amazon or Flipkart under 'Frequently Bought Together' section.
